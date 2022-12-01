@@ -1,3 +1,6 @@
-import { hello } from "./day-0.mjs";
+import { day1_a, day1_b } from "./day-01.mjs";
 
-console.log(hello("abc"));
+
+console.log(day1_a())
+
+console.log(day1_b())
